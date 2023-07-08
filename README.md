@@ -8,4 +8,4 @@ Use a VM or some other condom. Don't blame me if your shit gets toasted by someo
 <br>
 RocketGod
 
-![RocketGod Logo](https://user-images.githubusercontent.com/57732082/213221533-171b37da-46e5-4661-ac47-c7f23d24b816.png)
+![RocketGod](https://github.com/RocketGod-git/python-discord-bot/assets/57732082/d285869a-bf3c-4818-a89c-d4b41903c64e)
